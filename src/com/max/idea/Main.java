@@ -8,9 +8,10 @@ public class Main {
         System.out.println("World");
         System.out.printf("%s %d равна %f","Половина",1,0.5);
         System.out.println("\nWorlds\b\n");
+        System.out.println("\nWorldsы\b\n");
+
 
     }
 }
-
 
 
